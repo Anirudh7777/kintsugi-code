@@ -1,4 +1,5 @@
 # Kintsugi Code
+**Play it now: https://anirudh7777.github.io/kintsugi-code/**
 
 **A free browser game that teaches anyone, with zero coding background, to think like a developer.**
 
